@@ -6,6 +6,6 @@ async function accumulate (data, next) {
   return accumulate(data.concat(body.data), body.paging.next)
 }
 
-module.export = async function(url) {
+module.exports = async function(url) {
   return accumulate([], url)
 }
