@@ -1,0 +1,13 @@
+{
+  "name": "accumulate-facebook-data",
+  "version": "1.0.0",
+  "description": "Accumulate facebook data.",
+  "main": "index.js",
+  "repository": "https://github.com/zhaoyao91/accumulate-facebook-data.git",
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fetch-body": "^1.0.1",
+    "node-fetch": "^2.0.0-alpha.8"
+  }
+}
