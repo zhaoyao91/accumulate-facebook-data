@@ -2,6 +2,10 @@
 
 Accumulate facebook data.
 
+## Deprecated
+
+Prefer the alternative [facebook-ad-tools](https://github.com/zhaoyao91/facebook-ad-tools).
+
 ## Installation
 
 ```
